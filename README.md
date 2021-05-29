@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mmaliyu
+- 👋 Hi, I am Mohamed Aliyu from Nigeria
 - 👀 I’m interested in documentation 
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on documentation projects 
